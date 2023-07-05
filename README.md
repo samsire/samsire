@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is my first website developed, to present a little about my progress in programming
 <!--
 **samsire/samsire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
