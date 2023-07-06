@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Projeto de perfil profissional desenvolvido em HTML e CSS. Esse é meu primeiro projeto na área de desenvolvedor Front-end (: 
+Projeto de perfil profissional desenvolvido em HTML e CSS. Esse é meu primeiro projeto na área de desenvolvedor Front-end. 
+
 Minha trajetória inicia no curso de programação para iniciantes do projeto WOMAKERS CODE 💪❤
 <!--
 **samsire/samsire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
